@@ -45,4 +45,14 @@ body {
     grid-area: row_add;
     background-color: #888888;
     border-radius: 0 0 2rem 2rem;
+    font-size: 2em;
+    color: #00BEEF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.row_add div {
+    margin: auto;
 }
