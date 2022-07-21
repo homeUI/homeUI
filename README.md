@@ -6,7 +6,8 @@ The Items and Settings are stored in a json file with the following structure:
 ```
 {
     "settings": {
-        "theme": ""
+        "theme": "",
+        "lang": ""
     },
     "rows": [{
         "row_name": "",
